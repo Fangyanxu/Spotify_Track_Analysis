@@ -20,4 +20,7 @@ Music has always been a personal passion of mine. I believe it holds the unique 
 6. Top 20 artists over time?
 
 ## Files:
+Dashboard: 
+https://public.tableau.com/views/Book1_17540115850970/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Jupyter Notebook:
 http://localhost:8888/notebooks/Spotify_track_analysis.ipynb
